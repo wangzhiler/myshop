@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="myshop-web-admin:war">
+    <output-path>$PROJECT_DIR$/myshop-web-admin/target</output-path>
+    <root id="archive" name="myshop-web-admin-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="myshop-web-admin:war exploded" />
+    </root>
+  </artifact>
+</component>
