@@ -8,3 +8,4 @@
 重构原则
 note.txt
 aaa
+bbb
